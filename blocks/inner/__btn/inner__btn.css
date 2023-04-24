@@ -1,0 +1,14 @@
+.inner__btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 34px;
+    color: #fff;
+    background-color: rebeccapurple;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.inner__btn:hover {
+    background-color: slateblue;
+}
